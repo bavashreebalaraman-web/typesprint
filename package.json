@@ -8,6 +8,7 @@
     "dev": "node --watch server.js"
   },
   "dependencies": {
+    "@vercel/speed-insights": "^2.1.1",
     "express": "^4.21.2"
   }
 }
